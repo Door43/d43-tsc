@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsc:home|Door43 (tsc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsc|d43-tsc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsc/archive/master.zip|d43-tsc.zip]]
+
+**Recent Changes**
+{{changes>ns = tsc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsc|Ethnologue data]]
+
